@@ -44,7 +44,7 @@ class _TelaInicialState extends State<TelaInicial>
   bool _speechDisponivel = false;
   String _textoTranscrito = '';
   String _textoTemporario = '';
-  List<String> _historicoMensagens = [];
+  final List<String> _historicoMensagens = [];
   late AnimationController _pulseController;
   late Animation<double> _pulseAnimation;
 
