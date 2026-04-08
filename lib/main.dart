@@ -113,7 +113,7 @@ class _TelaInicialState extends State<TelaInicial>
       onResult: _aoReceberResultado,
       localeId: 'pt_BR',
       listenFor: const Duration(seconds: 30),
-      pauseFor: const Duration(seconds: 5),
+      pauseFor: const Duration(seconds: 10),
       partialResults: true,
     );
   }
