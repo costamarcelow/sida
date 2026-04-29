@@ -1,0 +1,27 @@
+name: sida
+description: Sistema Integrado de Atendimento — SIDA
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Reconhecimento de fala (mantido — já funcionava)
+  speech_to_text: ^6.6.0
+
+  # Permissões de microfone (apenas para mobile/desktop; ignorado na web)
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
