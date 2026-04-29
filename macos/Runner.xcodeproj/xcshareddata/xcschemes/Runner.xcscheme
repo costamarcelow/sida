@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "libras_app.app"
+=======
+               BuildableName = "sida_app.app"
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "libras_app.app"
+=======
+            BuildableName = "sida_app.app"
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "libras_app.app"
+=======
+            BuildableName = "sida_app.app"
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "libras_app.app"
+=======
+            BuildableName = "sida_app.app"
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

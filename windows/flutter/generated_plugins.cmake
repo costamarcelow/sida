@@ -4,6 +4,10 @@
 
 list(APPEND FLUTTER_PLUGIN_LIST
   permission_handler_windows
+<<<<<<< HEAD
+=======
+  speech_to_text_windows
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST

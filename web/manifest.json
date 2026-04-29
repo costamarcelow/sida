@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "libras_app",
     "short_name": "libras_app",
+=======
+    "name": "sida_app",
+    "short_name": "sida_app",
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -2,6 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+<<<<<<< HEAD
         <key>io.flutter.embedded_views_preview</key>
         <true/>
         <key>NSAppTransportSecurity</key>
@@ -10,11 +11,18 @@
         <true/>
         </dict>	
         <key>CADisableMinimumFrameDurationOnPhone</key>
+=======
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Libras App</string>
+=======
+	<string>Sida App</string>
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -22,7 +30,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>libras_app</string>
+=======
+	<string>sida_app</string>
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -73,9 +85,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+<<<<<<< HEAD
 <key>NSMicrophoneUsageDescription</key>
 <string>Precisamos do microfone para transcrever sua voz para o colaborador surdo</string>
 <key>NSSpeechRecognitionUsageDescription</key>
 <string>Usamos reconhecimento de voz para converter sua fala em texto</string>
+=======
+>>>>>>> f5d1d2c945f24168b89203f4fe49db20a8fb1fe9
 </dict>
 </plist>
